@@ -29,6 +29,6 @@
         </p>
 
         <p class="mx-auto text-sm opacity-70">Youtube.freecodecamp</p>
-        <p class="">https://www.youtube.com/watch?v=-2UjwQzxvBQ&t=159s</p>
+        <span class="">https://www.youtube.com/watch?v=-2UjwQzxvBQ&t=159s</span>
     </div>
 </footer>
