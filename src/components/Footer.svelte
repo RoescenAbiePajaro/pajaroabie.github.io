@@ -5,18 +5,15 @@
         Contact Me
     </p>
     <div class="flex flex-col gap-4 items-center justify-center rounded-lg">
-        <!-- <div
+         <div
             class="flex items-center gap-4 sm:gap-6 text-2xl sm:text-3xl md:text-4xl mx-auto"
         >
-            <a>
-                <i class="fa-brands fa-linkedin-in" />kokdosoo
-            </a>
-            <a>
-                <i class="fa-brands fa-github" />
-            </a>
+          
         </div>
+        
         <p class="mx-auto text-sm opacity-70">or</p>
-        <p class="">Hugh_jass@gmail.com</p> -->
+        <p class="">Hugh_jass@gmail.com</p>
+
         <p><b class="pr-2">Email</b>abiepajaro@gmail.com</p>
         <p>
         </p>
