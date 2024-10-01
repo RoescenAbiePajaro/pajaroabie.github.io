@@ -50,7 +50,7 @@
         </div>
         <div class="relative grid place-items-center">
             <img
-                src="/images/ccsphoenix-e1a279f1-fccc-4fbc-9f7b-ec1b30967361-removebg.png"
+                src="/images/abie.png"
                 alt="Zetane Engine"
                 class="object-cover z-[2] max-h-[70vh]"
             />
