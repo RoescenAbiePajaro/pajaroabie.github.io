@@ -10,9 +10,6 @@
         >
           
         </div>
-        
-        <p class="mx-auto text-sm opacity-70">or</p>
-        <p class="">Hugh_jass@gmail.com</p>
 
         <p><b class="pr-2">Email</b>abiepajaro@gmail.com</p>
         <p>
@@ -30,5 +27,8 @@
                 ></a
             >
         </p>
+
+        <p class="mx-auto text-sm opacity-70">Youtube.freecodecamp</p>
+        <p class="">https://www.youtube.com/watch?v=-2UjwQzxvBQ&t=159s</p>
     </div>
 </footer>
